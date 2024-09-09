@@ -1,0 +1,36 @@
+{
+    "timeline": [
+        {
+            "Weight Reduction": "1.5-2 months",
+            "Healthy Heart": "1-2 months",
+            "Muscle Gain": "2-3 months"
+        }
+    ],
+    "schedule": [
+        {
+            "Day 1": {
+                "Warm-up": "5-10 minutes of cardio (jogging, jumping jacks)",
+                "Bicep Curls": "3 sets of 12 reps",
+                "Tricep Dips": "3 sets of 12 reps",
+                "Cool-down": "5-10 minutes of stretching"
+            },
+            "Day 2": {
+                "Warm-up": "5-10 minutes of cardio (jogging, jumping jacks)",
+                "Push-ups": "3 sets of 12 reps",
+                "Lateral Raises": "3 sets of 12 reps",
+                "Cool-down": "5-10 minutes of stretching"
+            },
+            "Day 3": {
+                "Warm-up": "5-10 minutes of cardio (jogging, jumping jacks)",
+                "Chest Press": "3 sets of 12 reps",
+                "Front Raises": "3 sets of 12 reps",
+                "Cool-down": "5-10 minutes of stretching"
+            }
+        }
+    ],
+    "diet": [
+        {
+            "Diet advice": "Focus on a balanced diet with plenty of protein (1.6-2.2g/kg/day) to support muscle growth and weight loss. Include complex carbohydrates like brown rice, whole wheat bread, and vegetables. Drink plenty of water throughout the day. Avoid processed foods and saturated fats. Aim for a daily caloric intake of 1500-1700 calories to support weight loss. Adjust caloric intake based on progress."
+        }
+    ]
+}
