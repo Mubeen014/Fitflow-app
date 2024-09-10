@@ -9,7 +9,7 @@ export default function Dashboard() {
 
   const router = useRouter()
   const handleClick = () => {
-    router.push('/Userdata/pdfpage')
+    router.push('/Userdata/form')
   }
   return (
       <div>
